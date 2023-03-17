@@ -8,9 +8,6 @@ export default function NavBar(props) {
                 <h1>Mitchell Konkel</h1>
             </div>
             <div>
-                <NavLink to="/home" className="nav-link">
-                    <b>Home</b>
-                </NavLink>
                 <NavLink to="/about" className="nav-link">
                     <b>About</b>
                 </NavLink>

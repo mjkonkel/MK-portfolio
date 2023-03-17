@@ -5,7 +5,7 @@ import linkPic from "../assets/LI-In-Bug.png"
 export default function Footer() {
 
     return (
-        <div>
+        <div className="footer--pin">
             <a href='https://github.com/mjkonkel' target="_blank" rel="noreferrer noopener" className="footer">
                 <img className='gitPic' src={gitPic} alt='GitHub icon' />
             </a>
