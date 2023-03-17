@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/MK-portfolio/about/static/css/main.77c7f86a.css",
-    "main.js": "/MK-portfolio/about/static/js/main.7122eaf5.js",
-    "static/media/IMG_3833.JPG": "/MK-portfolio/about/static/media/IMG_3833.978829caf135fe4b49e6.JPG",
-    "static/media/power.jfif": "/MK-portfolio/about/static/media/power.17e6050ca84c78f881a2.jfif",
-    "static/media/helping.JPG": "/MK-portfolio/about/static/media/helping.7eaac465026378a43994.JPG",
-    "static/media/bird.JPG": "/MK-portfolio/about/static/media/bird.ef3194b630118f8ba05e.JPG",
-    "static/media/weather.jpg": "/MK-portfolio/about/static/media/weather.6e4016cf19fe3abfced2.jpg",
-    "static/media/homepage.JPG": "/MK-portfolio/about/static/media/homepage.7bac0ab6af6ff0da814a.JPG",
-    "static/media/jate.jfif": "/MK-portfolio/about/static/media/jate.959a0dc1015ba53cbd9a.jfif",
-    "static/media/sample-resume.pdf": "/MK-portfolio/about/static/media/sample-resume.645a1f11ba485306f407.pdf",
-    "index.html": "/MK-portfolio/about/index.html",
-    "main.77c7f86a.css.map": "/MK-portfolio/about/static/css/main.77c7f86a.css.map",
-    "main.7122eaf5.js.map": "/MK-portfolio/about/static/js/main.7122eaf5.js.map"
+    "main.css": "/mkportfolio/about/static/css/main.eac8dfdb.css",
+    "main.js": "/mkportfolio/about/static/js/main.0f638d6a.js",
+    "static/media/IMG_3833.JPG": "/mkportfolio/about/static/media/IMG_3833.978829caf135fe4b49e6.JPG",
+    "static/media/power.jfif": "/mkportfolio/about/static/media/power.17e6050ca84c78f881a2.jfif",
+    "static/media/helping.JPG": "/mkportfolio/about/static/media/helping.7eaac465026378a43994.JPG",
+    "static/media/bird.JPG": "/mkportfolio/about/static/media/bird.ef3194b630118f8ba05e.JPG",
+    "static/media/weather.jpg": "/mkportfolio/about/static/media/weather.6e4016cf19fe3abfced2.jpg",
+    "static/media/homepage.JPG": "/mkportfolio/about/static/media/homepage.7bac0ab6af6ff0da814a.JPG",
+    "static/media/jate.jfif": "/mkportfolio/about/static/media/jate.959a0dc1015ba53cbd9a.jfif",
+    "static/media/sample-resume.pdf": "/mkportfolio/about/static/media/sample-resume.645a1f11ba485306f407.pdf",
+    "index.html": "/mkportfolio/about/index.html",
+    "main.eac8dfdb.css.map": "/mkportfolio/about/static/css/main.eac8dfdb.css.map",
+    "main.0f638d6a.js.map": "/mkportfolio/about/static/js/main.0f638d6a.js.map"
   },
   "entrypoints": [
-    "static/css/main.77c7f86a.css",
-    "static/js/main.7122eaf5.js"
+    "static/css/main.eac8dfdb.css",
+    "static/js/main.0f638d6a.js"
   ]
 }
