@@ -18,18 +18,15 @@ nav {
   .active {
     text-decoration: none;
     color: var(--five);
-    /* color: red; */
     transition-duration: 0.4s;
   }
 
   .nav-link {
     text-decoration: none;
-    /* color: black; */
     transition-duration: 0.4s;
   }
   
   .nav-link:hover {
     text-decoration: none;
     color: var(--one);
-    /* color: green; */
   }
