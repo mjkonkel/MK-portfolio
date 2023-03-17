@@ -1,32 +1,31 @@
 nav {
-    background-color: var(--two);
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-    /* position: sticky; top: 0 */
-  }
-  
-  nav a {
-    margin: 0px 15px;
-  }
-  
-  nav h1 {
-    margin: 20px 35px;
-  }
-  
-  .active {
-    text-decoration: none;
-    color: var(--five);
-    transition-duration: 0.4s;
-  }
+  background-color: var(--two);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
 
-  .nav-link {
-    text-decoration: none;
-    transition-duration: 0.4s;
-  }
-  
-  .nav-link:hover {
-    text-decoration: none;
-    color: var(--one);
-  }
+nav a {
+  margin: 0px 15px;
+}
+
+nav h1 {
+  margin: 20px 35px;
+}
+
+.active {
+  text-decoration: none;
+  color: var(--five);
+  transition-duration: 0.4s;
+}
+
+.nav-link {
+  text-decoration: none;
+  transition-duration: 0.4s;
+}
+
+.nav-link:hover {
+  text-decoration: none;
+  color: var(--one);
+}
