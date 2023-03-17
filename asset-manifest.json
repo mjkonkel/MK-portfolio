@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "./static/css/main.e8594b7c.css",
-    "main.js": "./static/js/main.9061b74d.js",
-    "static/media/new-profile-pic.jpg": "./static/media/new-profile-pic.a693309876e8068d6ae1.jpg",
-    "static/media/power.jfif": "./static/media/power.17e6050ca84c78f881a2.jfif",
-    "static/media/helping.JPG": "./static/media/helping.7eaac465026378a43994.JPG",
-    "static/media/bird.JPG": "./static/media/bird.ef3194b630118f8ba05e.JPG",
-    "static/media/weather.jpg": "./static/media/weather.6e4016cf19fe3abfced2.jpg",
-    "static/media/homepage.JPG": "./static/media/homepage.7bac0ab6af6ff0da814a.JPG",
-    "static/media/jate.jfif": "./static/media/jate.959a0dc1015ba53cbd9a.jfif",
-    "static/media/sample-resume.pdf": "./static/media/sample-resume.645a1f11ba485306f407.pdf",
-    "index.html": "./index.html",
-    "main.e8594b7c.css.map": "./static/css/main.e8594b7c.css.map",
-    "main.9061b74d.js.map": "./static/js/main.9061b74d.js.map"
+    "main.css": "/mjkonkel/mkportfolio/static/css/main.0a6949c0.css",
+    "main.js": "/mjkonkel/mkportfolio/static/js/main.c5d9b143.js",
+    "static/media/new-profile-pic.jpg": "/mjkonkel/mkportfolio/static/media/new-profile-pic.a693309876e8068d6ae1.jpg",
+    "static/media/power.jfif": "/mjkonkel/mkportfolio/static/media/power.17e6050ca84c78f881a2.jfif",
+    "static/media/helping.JPG": "/mjkonkel/mkportfolio/static/media/helping.7eaac465026378a43994.JPG",
+    "static/media/bird.JPG": "/mjkonkel/mkportfolio/static/media/bird.ef3194b630118f8ba05e.JPG",
+    "static/media/weather.jpg": "/mjkonkel/mkportfolio/static/media/weather.6e4016cf19fe3abfced2.jpg",
+    "static/media/homepage.JPG": "/mjkonkel/mkportfolio/static/media/homepage.7bac0ab6af6ff0da814a.JPG",
+    "static/media/jate.jfif": "/mjkonkel/mkportfolio/static/media/jate.959a0dc1015ba53cbd9a.jfif",
+    "static/media/sample-resume.pdf": "/mjkonkel/mkportfolio/static/media/sample-resume.645a1f11ba485306f407.pdf",
+    "index.html": "/mjkonkel/mkportfolio/index.html",
+    "main.0a6949c0.css.map": "/mjkonkel/mkportfolio/static/css/main.0a6949c0.css.map",
+    "main.c5d9b143.js.map": "/mjkonkel/mkportfolio/static/js/main.c5d9b143.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8594b7c.css",
-    "static/js/main.9061b74d.js"
+    "static/css/main.0a6949c0.css",
+    "static/js/main.c5d9b143.js"
   ]
 }
