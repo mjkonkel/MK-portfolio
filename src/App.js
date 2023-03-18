@@ -1,36 +1,28 @@
 // import { useState } from 'react';
 import './App.css';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { Routes, Route, HashRouter } from 'react-router-dom';
 
 import NavBar from './components/NavBar';
 import AboutMe from './components/AboutMe';
 import Contact from './components/Contact';
-// import Home from './components/Home';
 import Portfolio from './components/Portfolio';
 import Footer from './components/Footer';
 import Resume from './components/Resume';
 
 function App() {
   return (
-    <Router>
+    <HashRouter>
       <div className="App">
         <NavBar />
         <Routes>
-          {/* <Route
+          <Route
             path="/*"
-            element={<Home />}
-          /> */}
-          <Route>
-            <Route
-              path="/"
-              element={<AboutMe />}
-            />
-            <Route
-              path="/about"
-              element={<AboutMe />}
-            />
-          </Route>
-
+            element={<AboutMe />}
+          />
+          <Route
+            path="/about"
+            element={<AboutMe />}
+          />
           <Route
             path="/contact"
             element={<Contact />}
@@ -47,7 +39,7 @@ function App() {
         <Footer />
       </div>
 
-    </Router>
+    </HashRouter>
   )
 }
 
