@@ -23,9 +23,10 @@ nav h1 {
 .nav-link {
   text-decoration: none;
   transition-duration: 0.4s;
+  color: var(--five);
 }
 
 .nav-link:hover {
   text-decoration: none;
-  color: var(--one);
+  color: white;
 }
