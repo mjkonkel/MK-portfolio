@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.b0d085f0.css",
-    "main.js": "/static/js/main.588dfec3.js",
-    "static/media/new-profile-pic.jpg": "/static/media/new-profile-pic.a693309876e8068d6ae1.jpg",
-    "static/media/power.jfif": "/static/media/power.17e6050ca84c78f881a2.jfif",
-    "static/media/helping.JPG": "/static/media/helping.7eaac465026378a43994.JPG",
-    "static/media/bird.JPG": "/static/media/bird.ef3194b630118f8ba05e.JPG",
-    "static/media/weather.jpg": "/static/media/weather.6e4016cf19fe3abfced2.jpg",
-    "static/media/homepage.JPG": "/static/media/homepage.7bac0ab6af6ff0da814a.JPG",
-    "static/media/jate.jfif": "/static/media/jate.959a0dc1015ba53cbd9a.jfif",
-    "static/media/sample-resume.pdf": "/static/media/sample-resume.645a1f11ba485306f407.pdf",
-    "index.html": "/index.html",
-    "main.b0d085f0.css.map": "/static/css/main.b0d085f0.css.map",
-    "main.588dfec3.js.map": "/static/js/main.588dfec3.js.map"
+    "main.css": "/mkportfolio/static/css/main.d65219d8.css",
+    "main.js": "/mkportfolio/static/js/main.cd05619e.js",
+    "static/media/new-profile-pic.jpg": "/mkportfolio/static/media/new-profile-pic.a693309876e8068d6ae1.jpg",
+    "static/media/power.jfif": "/mkportfolio/static/media/power.17e6050ca84c78f881a2.jfif",
+    "static/media/helping.JPG": "/mkportfolio/static/media/helping.7eaac465026378a43994.JPG",
+    "static/media/bird.JPG": "/mkportfolio/static/media/bird.ef3194b630118f8ba05e.JPG",
+    "static/media/weather.jpg": "/mkportfolio/static/media/weather.6e4016cf19fe3abfced2.jpg",
+    "static/media/homepage.JPG": "/mkportfolio/static/media/homepage.7bac0ab6af6ff0da814a.JPG",
+    "static/media/jate.jfif": "/mkportfolio/static/media/jate.959a0dc1015ba53cbd9a.jfif",
+    "static/media/sample-resume.pdf": "/mkportfolio/static/media/sample-resume.645a1f11ba485306f407.pdf",
+    "index.html": "/mkportfolio/index.html",
+    "main.d65219d8.css.map": "/mkportfolio/static/css/main.d65219d8.css.map",
+    "main.cd05619e.js.map": "/mkportfolio/static/js/main.cd05619e.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0d085f0.css",
-    "static/js/main.588dfec3.js"
+    "static/css/main.d65219d8.css",
+    "static/js/main.cd05619e.js"
   ]
 }
