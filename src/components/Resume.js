@@ -10,10 +10,23 @@ export default function Resume() {
             
             <h2>My Skills</h2>
             <ul>
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
+                <p><b>Front-end:</b></p>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+                <li>React</li>
+                <li>jQuery</li>
+                <li>Bootstrap</li>
+                <li>responsive design</li>
+
+                <p><b>Back-end:</b></p>
+                <li>APIs</li>
+                <li>Node</li>
+                <li>Express</li>
+                <li>MySQL and Sequelize</li>
+                <li>MongoDB and Mongoose</li>
+                <li>REST</li>
+                <li>GraphQL</li>
             </ul>
         </div>
     );
