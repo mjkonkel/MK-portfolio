@@ -58,6 +58,9 @@ export default function Contact() {
         <>
             <div className="contact">
                 <h1>Contact Me</h1>
+                <p>Feel free to email me directly at <a href="mailto:konkel.mitchell@gmail.com">konkel.mitchell@gmail.com</a> or use the contact form below.
+                </p>
+
                 <form target="_blank" action="https://formsubmit.co/a27fb8d2d93ba67f6963dbdbc848c5b1" method="POST" >
                     <div>
                         <input

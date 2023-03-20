@@ -8,11 +8,7 @@ export default function AboutMe() {
         <div className="about">
             <h1>About Me</h1>
             <img src={profilePic} alt='profile pic' className='profilePic' />
-            <p>Full stack web developer with a focus on the MERN stack.</p>
-            <p>Currently based in Minneapolis, MN.</p>
-            <p> Ready to turn ideas into accessible and user-centered web apps.</p>
-            <p>My collection of experiences across multiple industries allows me to bring a unique perspective to my work.</p>
-            <p>I am driven to use code as a problem solving tool to create engaging and impactful web apps.</p>
+            <div id="about-text">Full stack web developer with a focus on the MERN stack. Currently based in Minneapolis, MN. Willing to relocate. Ready to create engaging, impactful web apps and to use code as a problem solving tool to make the web accessible and user-centered.</div>
         </div >
     );
 
