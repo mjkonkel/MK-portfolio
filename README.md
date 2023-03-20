@@ -5,7 +5,7 @@ My portfolio! This is a new version of my portfolio and is a single page app tha
 
 ## Link
 
-Check out my portfolio [here](https://mjkonkel.github.io/portfolio-react/)
+Check out my portfolio [here](https://mjkonkel.github.io/mkportfolio/)
 
 ## Installation
 
