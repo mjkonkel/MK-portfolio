@@ -1,4 +1,4 @@
-# Challenge 20 React: React Portfolio
+# Mitchell Konkel's Portfolio
 
 ## Description
 My portfolio! This is a new version of my portfolio and is a single page app that I built with React. 
