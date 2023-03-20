@@ -47,11 +47,11 @@ export default function Portfolio() {
             </div>
 
             <div className="project">
-                <h2>Power Trip</h2>
-                <a href='https://github.com/nambui17/Power-Trip' target="_blank" rel="noreferrer noopener">
+                <h2>Work Day Scheduler</h2>
+                <a href='https://github.com/mjkonkel/work-day-scheduler' target="_blank" rel="noreferrer noopener">
                     <img className='gitPic' src={gitPic} alt='GitHub icon'/>
                 </a>
-                <a href="https://power-trip.herokuapp.com/" target="_blank" rel="noreferrer noopener">
+                <a href="https://mjkonkel.github.io/work-day-scheduler/" target="_blank" rel="noreferrer noopener">
                     <section>
                         <figure className="figure-work"></figure>
                     </section>
@@ -71,11 +71,11 @@ export default function Portfolio() {
             </div>
 
             <div className="project">
-                <h2>Helping Hands</h2>
-                <a href='https://github.com/mjkonkel/helping-hands' target="_blank" rel="noreferrer noopener">
+                <h2>Password Generator</h2>
+                <a href='https://github.com/mjkonkel/password-gen' target="_blank" rel="noreferrer noopener">
                     <img className='gitPic' src={gitPic} alt='GitHub icon' target="_blank" rel="noreferrer noopener"/>
                 </a>
-                <a href="https://helping-hands.herokuapp.com/" target="_blank" rel="noreferrer noopener">
+                <a href="https://mjkonkel.github.io/password-gen/" target="_blank" rel="noreferrer noopener">
                     <section>
                         <figure className="figure-password"></figure>
                     </section>
