@@ -8,8 +8,12 @@ export default function AboutMe() {
         <div className="about">
             <h1>About Me</h1>
             <img src={profilePic} alt='profile pic' className='profilePic' />
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Venenatis a condimentum vitae sapien pellentesque habitant morbi. Faucibus scelerisque eleifend donec pretium. Nulla malesuada pellentesque elit eget gravida cum sociis natoque penatibus. Sollicitudin nibh sit amet commodo nulla facilisi nullam vehicula ipsum.</p>
-        </div>
+            <p>Full stack web developer with a focus on the MERN stack.</p>
+            <p>Currently based in Minneapolis, MN.</p>
+            <p> Ready to turn ideas into accessible and user-centered web apps.</p>
+            <p>My collection of experiences across multiple industries allows me to bring a unique perspective to my work.</p>
+            <p>I am driven to use code as a problem solving tool to create engaging and impactful web apps.</p>
+        </div >
     );
 
 }

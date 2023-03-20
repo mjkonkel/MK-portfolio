@@ -3,3 +3,19 @@
   text-align: center;
   width: fit-content;
 }
+
+/* ul {
+  list-style-type: none;
+  padding-left: 0;
+  list-style-position: inside;
+
+} */
+
+.list-cont {
+  display: flex;
+}
+
+.skills-list {
+  margin: 0px 20px;
+  text-align: left;
+}
