@@ -59,7 +59,11 @@ export default function Portfolio() {
                 </div>
 
                 <div className="project">
-                    <h2>Work Day Scheduler</h2>
+                    <div className="desc">
+                        <h2>Work Day Scheduler</h2>
+                        <p>An app for structuring your workday. Users can enter their tasks for the day and click the save button to save to local storage. Hours are color coded based on the time of the day</p>
+                        <p>Built with: Moment.js, jQuery, Bootstrap, local storage</p>
+                    </div>
                     <a href='https://github.com/mjkonkel/work-day-scheduler' target="_blank" rel="noreferrer noopener">
                         <img className='gitPic' src={gitPic} alt='GitHub icon' />
                     </a>
@@ -71,7 +75,11 @@ export default function Portfolio() {
                 </div>
 
                 <div className="project">
-                    <h2>Just Another Text Editor</h2>
+                    <div className="desc">
+                        <h2>Just Another Text Editor</h2>
+                        <p>JATE is a simple text editor app that can be used to save notes or code snipes. JATE can be used with or without an internet connection. Users are also able to install JATE.</p>
+                        <p>Built with: Webpack, IndexedDB, Express, JavaScript</p>
+                    </div>
                     <a href='https://github.com/mjkonkel/jate-editor' target="_blank" rel="noreferrer noopener">
                         <img className='gitPic' src={gitPic} alt='GitHub icon' />
                     </a>
@@ -83,7 +91,11 @@ export default function Portfolio() {
                 </div>
 
                 <div className="project">
+                    <div className="desc">
                     <h2>Password Generator</h2>
+                    <p>The app generates a secure password for the user after prompting them for the length and types of characters they would like in their password.</p>
+                    <p>Built with: JavaScript, HTML, CSS</p>
+                    </div>
                     <a href='https://github.com/mjkonkel/password-gen' target="_blank" rel="noreferrer noopener">
                         <img className='gitPic' src={gitPic} alt='GitHub icon' target="_blank" rel="noreferrer noopener" />
                     </a>
