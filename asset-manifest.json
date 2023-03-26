@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/mkportfolio/static/css/main.929bfc75.css",
-    "main.js": "/mkportfolio/static/js/main.cd05619e.js",
+    "main.css": "/mkportfolio/static/css/main.af225bbb.css",
+    "main.js": "/mkportfolio/static/js/main.187fbee1.js",
     "static/media/new-profile-pic.jpg": "/mkportfolio/static/media/new-profile-pic.a693309876e8068d6ae1.jpg",
-    "static/media/power.jfif": "/mkportfolio/static/media/power.17e6050ca84c78f881a2.jfif",
-    "static/media/helping.JPG": "/mkportfolio/static/media/helping.7eaac465026378a43994.JPG",
     "static/media/bird.JPG": "/mkportfolio/static/media/bird.ef3194b630118f8ba05e.JPG",
     "static/media/weather.jpg": "/mkportfolio/static/media/weather.6e4016cf19fe3abfced2.jpg",
     "static/media/homepage.JPG": "/mkportfolio/static/media/homepage.7bac0ab6af6ff0da814a.JPG",
+    "static/media/password.jpg": "/mkportfolio/static/media/password.fbb3add1a8221a9a978f.jpg",
+    "static/media/mitchell-konkel-resume.pdf": "/mkportfolio/static/media/mitchell-konkel-resume.149e6b7fda6a19e57355.pdf",
+    "static/media/work.JPG": "/mkportfolio/static/media/work.4c486fcb6bd532b99b9f.JPG",
     "static/media/jate.jfif": "/mkportfolio/static/media/jate.959a0dc1015ba53cbd9a.jfif",
-    "static/media/sample-resume.pdf": "/mkportfolio/static/media/sample-resume.645a1f11ba485306f407.pdf",
     "index.html": "/mkportfolio/index.html",
-    "main.929bfc75.css.map": "/mkportfolio/static/css/main.929bfc75.css.map",
-    "main.cd05619e.js.map": "/mkportfolio/static/js/main.cd05619e.js.map"
+    "main.af225bbb.css.map": "/mkportfolio/static/css/main.af225bbb.css.map",
+    "main.187fbee1.js.map": "/mkportfolio/static/js/main.187fbee1.js.map"
   },
   "entrypoints": [
-    "static/css/main.929bfc75.css",
-    "static/js/main.cd05619e.js"
+    "static/css/main.af225bbb.css",
+    "static/js/main.187fbee1.js"
   ]
 }
