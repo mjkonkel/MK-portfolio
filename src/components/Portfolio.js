@@ -92,9 +92,9 @@ export default function Portfolio() {
 
                 <div className="project">
                     <div className="desc">
-                    <h2>Password Generator</h2>
-                    <p>The app generates a secure password for the user after prompting them for the length and types of characters they would like in their password.</p>
-                    <p>Built with: JavaScript, HTML, CSS</p>
+                        <h2>Password Generator</h2>
+                        <p>The app generates a secure password for the user after prompting them for the length and types of characters they would like in their password.</p>
+                        <p>Built with: JavaScript, HTML, CSS</p>
                     </div>
                     <a href='https://github.com/mjkonkel/password-gen' target="_blank" rel="noreferrer noopener">
                         <img className='gitPic' src={gitPic} alt='GitHub icon' target="_blank" rel="noreferrer noopener" />
