@@ -5,11 +5,11 @@ export default function Resume() {
 
     return (
         <div className="resume">
-            <h1>Resume</h1>
+            <h1>My Resume</h1>
             <a href={resumePDF} target="_blank" rel="noreferrer noopener"><button>Download my Resume</button></a>
 
             <h2>My Skills</h2>
-            <div className='list-cont'>
+            <div className='list-cont med-res'>
                 <div className='skills-list'>
                     <ul>
                         <p><b>Front-end:</b></p>

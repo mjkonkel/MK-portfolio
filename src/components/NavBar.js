@@ -3,11 +3,11 @@ import { NavLink } from 'react-router-dom';
 
 export default function NavBar(props) {
     return (
-        <nav>
+        <nav className='med-nav'>
             <div>
                 <h1>Mitchell Konkel</h1>
             </div>
-            <div>
+            <div className='med-nav'>
                 <NavLink to="/about" className="nav-link">
                     <b>About</b>
                 </NavLink>
