@@ -8,8 +8,6 @@ export default function Portfolio() {
         <div>
             <h1 className="project-header">My Projects</h1>
             <div className="wrapper">
-
-
                 <div className="project">
                     <div className="desc">
                         <h2>The Bird Spotter</h2>
