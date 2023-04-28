@@ -72,7 +72,7 @@ export default function Portfolio() {
                     </a>
                 </div>
 
-                <div className="project">
+                {/* <div className="project">
                     <div className="desc">
                         <h2>Just Another Text Editor</h2>
                         <p>JATE is a simple text editor app that can be used to save notes or code snipes. JATE can be used with or without an internet connection. Users are also able to install JATE.</p>
@@ -102,7 +102,7 @@ export default function Portfolio() {
                             <figure className="figure" id="figure-password"></figure>
                         </section>
                     </a>
-                </div>
+                </div> */}
 
             </div>
         </div>
