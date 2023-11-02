@@ -1,6 +1,7 @@
 import resumePDF from '../assets/mitchell-konkel-resume.pdf'
 import './Resume.css'
 
+
 export default function Resume() {
 
     return (
