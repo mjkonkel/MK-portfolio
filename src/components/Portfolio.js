@@ -1,11 +1,43 @@
 import React from "react";
 import gitPic from "../assets/github-mark.png"
 import './Portfolio.css'
+import './Resume.css'
 
 export default function Portfolio() {
 
     return (
-        <div>
+        <div className="resume">
+
+            <h2>My Skills</h2>
+            <div className='list-cont med-res resume'>
+                <div className='skills-list'>
+                    <ul>
+                        <p><b>Front-end:</b></p>
+                        <li>HTML</li>
+                        <li>CSS</li>
+                        <li>JavaScript</li>
+                        <li>React</li>
+                        <li>jQuery</li>
+                        <li>Bootstrap</li>
+                        <li>responsive design</li>
+                    </ul>
+                </div>
+                <div className='skills-list'>
+                    <ul>
+                        <p><b>Back-end:</b></p>
+                        <li>APIs</li>
+                        <li>Node</li>
+                        <li>Express</li>
+                        <li>MySQL and Sequelize</li>
+                        <li>MongoDB and Mongoose</li>
+                        <li>REST</li>
+                        <li>GraphQL</li>
+                    </ul>
+                </div>
+            </div>
+
+
+
             <h1 className="project-header">My Projects</h1>
             <div className="wrapper">
                 <div className="project">

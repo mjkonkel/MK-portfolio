@@ -7,7 +7,7 @@ import AboutMe from './components/AboutMe';
 import Contact from './components/Contact';
 import Portfolio from './components/Portfolio';
 import Footer from './components/Footer';
-import Resume from './components/Resume';
+// import Resume from './components/Resume';
 
 function App() {
   return (
@@ -31,10 +31,10 @@ function App() {
             path="/portfolio"
             element={<Portfolio />}
           />
-          <Route
+          {/* <Route
             path="/resume"
             element={<Resume />}
-          />
+          /> */}
         </Routes>
         <Footer />
       </div>

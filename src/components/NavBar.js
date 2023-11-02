@@ -17,9 +17,9 @@ export default function NavBar(props) {
                 <NavLink to="/portfolio" className="nav-link">
                     <b>Portfolio</b>
                 </NavLink>
-                <NavLink to="/resume" className="nav-link">
+                {/* <NavLink to="/resume" className="nav-link">
                     <b>Resume</b>
-                </NavLink>
+                </NavLink> */}
             </div>
         </nav>
     )
